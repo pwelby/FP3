@@ -6,20 +6,25 @@ For full description, see the project schedule [on Piazza.][piazza]
 <i>Edit this file to make your report!</i>
 
 ### Team Members
-* github names and real names.
-* Teams of less than two members, or more than three members must get written permission from Mark in advance.
+* Patrick Quaratiello: [patqrtll](http://www.github.com/patqrtll)
+* Alex Li: [aali2537](http://www.github.com/aali2537)
+* Peter Welby: [pwelby](http://www.github.com/pwelby)
 
 ### A Team Name
-for the purpose of creating a github group
+Pebble BoyZ
 
 ### Project Title
-10 words or fewer
+Super Cardapalooza DX 5
 
 ### Project Concept
-can be basic, fluid. Details will be in the next assignment.
+A simple matching card game -- either memory matching (e.g., match 2) or some variation on arrangement matching
 
-### Libraries You Plan to Use 
-as a group
+### Libraries You Plan to Use as a group
+**Currently, we plan to use the following libraries:**
+* cards (for the game's overall framework)
+* rsound (for audio feedback)
+
+
 
 ### How to Do and Submit this assignment
 
@@ -36,4 +41,3 @@ as a group
 [ref-commit]: http://gitref.org/basic/#commit
 [ref-push]: http://gitref.org/remotes/#push
 [pull-request]: https://help.github.com/articles/creating-a-pull-request
-
